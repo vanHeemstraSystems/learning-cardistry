@@ -1,7 +1,10 @@
-repository-name
-# Repository Name
+learning-cardistry
+# Learning Cardistry
 
-Based on "ABC" at https://www.abc.com/
+> Cardistry is the performance art of card flourishing.
+> Unlike card magic, cardistry is meant to be visually impressive and appear very hard to execute.
+
+Based on "Cardistry Videso" at https://www.cardistryandmagic.com/cardistry-videos
 
 ## 100 - Introduction
 
@@ -11,7 +14,7 @@ See [README.md](./100/README.md)
 
 See [README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - Learning Our Subject
 
 See [README.md](./300/README.md)
 
